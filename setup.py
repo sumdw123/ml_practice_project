@@ -19,7 +19,7 @@ def get_requirements(file_path:str)->List[str]:
 setup(
 name='ml_practice_project',
 version='0.0.1',
-author='sumit',
+author='sumdw123',
 author_email='sumitdwivedi149@gmail.com',
 packages=find_packages(),
 install_requires=get_requirements('requirements.txt')
